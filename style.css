@@ -94,6 +94,7 @@ body {
   align-items: center;
   justify-content: center;
   display: none;
+  cursor: pointer;
 }
 .line {
   width: 80%;
